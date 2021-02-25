@@ -26,9 +26,9 @@ Select the required zip/rar file based on the OS (Windows/macOS) and architectur
 •	For point 3, create a blank folder, where the outputs will be stored.
 
 •	 Now,
-•	Copy the path name of the downloaded FASTA file and paste it under the field “Enter input pathname for the fasta file:”
-•	Copy the pathname of the folder containing “1.txt”, “2.txt” and “3.txt” and paste it under the field “Enter input folder pathname containing surface accessibility (ASA) values:”
-•	Copy the pathname of the blank output folder and paste it under the field “Enter output pathname:”
+1.	Copy the path name of the downloaded FASTA file and paste it under the field “Enter input pathname for the fasta file:”
+2.	Copy the pathname of the folder containing “1.txt”, “2.txt” and “3.txt” and paste it under the field “Enter input folder pathname containing surface accessibility (ASA) values:”
+3.	Copy the pathname of the blank output folder and paste it under the field “Enter output pathname:”
 
 •	Click on “Submit” to process the results. If you want to quit the window, click on “Quit”. Note that during the time of execution of the process, the window cannot be quit; it can only be done before the start of the process or after the outputs in the output folder gets produced completely. The indication that the process of execution has completed will be shown in the progress bar.
 
