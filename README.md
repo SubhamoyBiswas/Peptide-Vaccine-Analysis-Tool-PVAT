@@ -8,9 +8,9 @@ Select the required zip/rar file based on the OS (Windows/macOS) and architectur
 •	This software aims at studying a set of amino acid sequences of any target protein. All possible consecutive amino acid stretches of length 12 are considered from the sequences and then the conservativeness and surface accessibility of the all these stretches are studied. Finally a rank list is prepared by the software that ranks the peptides such that the top ranks are occupied by peptides having relatively higher conservativeness and higher surface accessibility. 
 
 •	For more information on the above method of ranking the peptides, please go through the following links:
-•	https://doi.org/10.1109/ICCECE48148.2020.9223075 
-•	https://sciforum.net/paper/view/conference/6787 
-•	https://www.researchgate.net/publication/344545959_Archives_of_Proteomics_and_Bioinformatics_Commentary_A_Bioinformatics_Protocol_for_Rational_Design_of_Peptide_Vaccines_and_the_COVID-19_Rampage 
+1.	https://doi.org/10.1109/ICCECE48148.2020.9223075 
+2.	https://sciforum.net/paper/view/conference/6787 
+3.	https://www.researchgate.net/publication/344545959_Archives_of_Proteomics_and_Bioinformatics_Commentary_A_Bioinformatics_Protocol_for_Rational_Design_of_Peptide_Vaccines_and_the_COVID-19_Rampage 
 
 •	The software has three mandatory fields for input:
 1.	for entering the pathname of the file containing the input amino acid sequences
