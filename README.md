@@ -41,10 +41,6 @@ Select the required zip/rar file based on the OS (Windows/macOS) and architectur
 PLEASE NOTE THAT THE DOWNLOADED FASTA FILE MUST CONTAIN THE REFERENCE SEQUENCE OTHERWISE THE SOFTWARE WILL NOT BE ABLE TO DECIDE WHICH SEQUENCE SHOULD BE USED AS REFERENCE.
 VIOLATION IN ANY OF THE AFOREMENTIONED STEPS WILL LEAD TO AN ERROR WHICH WILL BE DISPLAYED ACCORDINGLY IN THE TERMINAL WINDOW RUNNING PARALLEL ALONG WITH THE SOFTWARE WINDOW.
 
-For any issues or queries regarding the software, please contact us:
+For any issues or queries regarding the software, please contact:
 
 Subhamoy Biswas – Email: subhab365@gmail.com
-
-Dr. Ashesh Nandy – Email: anandy43@yahoo.com
-
-Also if possible, please don’t forget to send your valuable suggestions to the above contacts for improving the software.
