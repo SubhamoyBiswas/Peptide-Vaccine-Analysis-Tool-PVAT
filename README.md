@@ -1,4 +1,4 @@
-# Peptide-Vaccine-Analysis-Tool-PVAT-
+# Peptide-Vaccine-Analysis-Tool-PVAT
 << Please read this entire document carefully before using the software >>
 *** HOW TO USE PEPTIDE VACCINE ANALYSIS TOOL – PVAT ***
 
