@@ -4,6 +4,7 @@
 *** HOW TO USE PEPTIDE VACCINE ANALYSIS TOOL – PVAT ***
 
 Select the required zip/rar file based on the OS (Windows/macOS) and architecture (32/64 bit) and navigate to the “dist” folder to open the PVAT software.
+
 •	This software aims at studying a set of amino acid sequences of any target protein. All possible consecutive amino acid stretches of length 12 are considered from the sequences and then the conservativeness and surface accessibility of the all these stretches are studied. Finally a rank list is prepared by the software that ranks the peptides such that the top ranks are occupied by peptides having relatively higher conservativeness and higher surface accessibility. 
 
 •	For more information on the above method of ranking the peptides, please go through the following links:
