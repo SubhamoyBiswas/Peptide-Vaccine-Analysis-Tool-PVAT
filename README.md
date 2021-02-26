@@ -42,3 +42,8 @@ PLEASE NOTE THAT THE DOWNLOADED FASTA FILE MUST CONTAIN THE REFERENCE SEQUENCE O
 VIOLATION IN ANY OF THE AFOREMENTIONED STEPS WILL LEAD TO AN ERROR WHICH WILL BE DISPLAYED ACCORDINGLY IN THE TERMINAL WINDOW RUNNING PARALLEL ALONG WITH THE SOFTWARE WINDOW.
 
 For any issues or queries regarding the software, feel free to contact by email: subhab365@gmail.com
+
+Contributors:
+Subhamoy Biswas - Department of Electrical Engineering, Jadavpur University, India
+Dr. Ashesh Nandy - Centre for Interdisciplinary Research and Education, Kolkata, India
+Dr. Subhash C. Basak - Department of Chemistry and Biochemistry, University of Minnesota Duluth, MN, US
